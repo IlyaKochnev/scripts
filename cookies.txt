@@ -1,0 +1,20 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.pluralsight.com	TRUE	/	FALSE	0	at_check	true
+.pluralsight.com	TRUE	/	FALSE	0	AMCVS_70D658CC558978FF7F000101%40AdobeOrg	1
+.pluralsight.com	TRUE	/	FALSE	0	psmc_first_utms	|||||
+.pluralsight.com	TRUE	/	FALSE	1690488957	psmc_mc	direct
+.pluralsight.com	TRUE	/	FALSE	1690488957	psmc_setby	default
+.pluralsight.com	TRUE	/	FALSE	1690488957	psmc_expires	1690488957417
+.pluralsight.com	TRUE	/	FALSE	1714487552	fv	0
+.pluralsight.com	TRUE	/	TRUE	1683383815	www-status-production	1
+app.pluralsight.com	FALSE	/	FALSE	1717273360	muxData	mux_viewer_id=00440cb5-564c-45d6-a80c-80f74531c017&msn=0.6311864603233843&sid=b74fb357-aa2b-4a00-a62c-75b8ab46029d&sst=1682713149454.4&sex=1682714859634.1
+.app.pluralsight.com	TRUE	/	TRUE	1685305364	cwr_u	28ed7c10-50fd-415c-8394-42c794d574d3
+.pluralsight.com	TRUE	/	TRUE	0	__cfruid	29d6e569a034d2727405b031c54d461577c85c10-1682941672
+.pluralsight.com	TRUE	/	TRUE	0	Identity.Session	f270c1aa-499e-4cf6-ac3f-61fa597cba9f
+app.pluralsight.com	FALSE	/	FALSE	0	XSRF-TOKEN	CfDJ8DVvWdUwsPRBlU692W1Lr2nV1SCfazertPzrq9sx3kBBFVko4Ft2G08vzLu8e3DLBHsgvTiFvB7BVJSzJxM18AUh5sS3O1dXcsCYTkKB28VT3CpoBdw5Gm3fnsMOcJiOe7aZ6O2ktjNXI-eO4IeQY56oMM0SNnhpP_xxFf9zfQ5xgN5mt6IDytiPt-LW55TQVg
+.pluralsight.com	TRUE	/	FALSE	1717527668	AMCV_70D658CC558978FF7F000101%40AdobeOrg	-1124106680%7CMCIDTS%7C19479%7CMCMID%7C10475966942874920961849664711862974366%7CMCAID%7CNONE%7CMCOPTOUT-1682974867s%7CNONE%7CvVersion%7C5.2.0
+.pluralsight.com	TRUE	/	FALSE	1717527668	mbox	PC#bf498a4d8b4e4beb96ba928cd60ba8a0.34_0#1746212469|session#fa033528f6394c73bd83b1e2c82bc0d7#1682969529
+.pluralsight.com	TRUE	/	TRUE	1682969469	__cf_bm	0SFRRsHANwEk2bAbLuxpgnm0gkbNUsa8azu7UXUBQjQ-1682967668-0-AWziUxr26FJiOzLpa+iQOPQ2n70gqY6mj7iv3FrSavLqCApdXlkUMmsFqSLT8zTr9WxOH1o9UOj7MQ+WWJDGKnEgNE6LJn7vsKkMUfs0304tXPVt70IRyvDS/Jzt1CmqEJZOiD/IAfXcSgqESjp+Hk83d7I13jxHsM5BkZCSHE4H
